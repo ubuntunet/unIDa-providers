@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  entity_id: MyString
+  x509: MyText
+  organization_id: 
+  contact_id: 
+
+two:
+  entity_id: MyString
+  x509: MyText
+  organization_id: 
+  contact_id: 
